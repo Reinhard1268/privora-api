@@ -1,0 +1,8 @@
+[+] WHOIS Lookup for google.com
+-------------------------------
+Domain Name: ['GOOGLE.COM', 'google.com']
+Registrar: MarkMonitor, Inc.
+Creation Date: [datetime.datetime(1997, 9, 15, 4, 0), datetime.datetime(1997, 9, 15, 7, 0)]
+Expiration Date: [datetime.datetime(2028, 9, 14, 4, 0), datetime.datetime(2028, 9, 13, 7, 0)]
+Name Servers: ['NS1.GOOGLE.COM', 'NS2.GOOGLE.COM', 'NS3.GOOGLE.COM', 'NS4.GOOGLE.COM', 'ns2.google.com', 'ns3.google.com', 'ns4.google.com', 'ns1.google.com']
+Emails: ['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']

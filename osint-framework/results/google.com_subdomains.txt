@@ -1,0 +1,5 @@
+[+] Subdomains for google.com
+----------------------------------------
+www.google.com
+mail.google.com
+api.google.com
