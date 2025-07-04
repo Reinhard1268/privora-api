@@ -1,4 +1,0 @@
-[+] Breach Data for testaccount@gmail.com
-----------------------------------------
-Adobe (2013-10-04): Emails, Passwords
-LinkedIn (2012-05-05): Emails, Hashes

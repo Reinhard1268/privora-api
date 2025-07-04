@@ -1,8 +1,0 @@
-www
-mail
-ftp
-api
-test
-dev
-portal
-beta
