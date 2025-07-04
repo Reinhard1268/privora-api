@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual env
+venv/
+
+# Environment files
+.env
+*.env
+
+# Editor & system junk
+.DS_Store
+.idea/
+.vscode/
+
+# Log files
+static/docs/logs.json
+logs.json
+
+# Zip or build files
+*.zip
+*.log
