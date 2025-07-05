@@ -1,0 +1,31 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Results and reports
+results/*.pdf
+results/*.csv
+
+# Sample phishing emails (optional)
+samples/*.eml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor config
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Test logs
+*.log
+
