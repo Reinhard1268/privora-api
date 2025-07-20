@@ -1,0 +1,25 @@
+# ===============================
+# 🔧 Git Attributes for ZTE Repo
+# ===============================
+
+# --- Handle line endings ---
+* text=auto
+
+# --- Explicit language recognition ---
+*.py linguist-language=Python
+*.md linguist-language=Markdown
+*.json linguist-language=JSON
+*.sh linguist-language=Shell
+*.enc binary
+*.pkl binary
+*.key binary
+
+# --- Mark file types as binary ---
+*.pkl binary
+*.enc binary
+*.key binary
+
+# --- Documentation overrides ---
+README.md linguist-documentation
+LICENSE linguist-documentation
+COMMERCIAL_OFFER.md linguist-documentation
